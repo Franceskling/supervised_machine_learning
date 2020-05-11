@@ -1,6 +1,6 @@
 # supervised_machine_learning
 
-##Precision and recall scores
+##Precision and recall scores##
 For oversampling, the precision and recall are both high. For undersampling, the recall is high for high_risk but low on low_end. For combination, the recall is high for both low_risk and high_risk. 
 
 ##balanced accuracy scores
